@@ -352,7 +352,7 @@ footer {
     </div>
     <div class="window-content">
         <div class="inset-panel">
-            <form class="search-box" action="http://kzuko37.tistory.tistory.com/search/" method="get">
+            <form class="search-box" action="http://kzuko37.tistory.com/search/" method="get">
                 <input type="text" name="q" placeholder="검색어를 입력하지 마시오">
                 <button type="submit">검색</button>
             </form>
